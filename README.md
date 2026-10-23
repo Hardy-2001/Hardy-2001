@@ -42,25 +42,22 @@ Tools: Git, GitHub, PyCharm
 
 Emerging learning area: Artificial Intelligence (AI) and Prompt Engineering.
 
-💼 Featured Projects
+## 🚀 Featured Project
 
-1. corex NOC MONITOR
+### COREX NOC MONITOR
 
-A Python desktop application designed to support network operations through monitoring data, utilization analysis, historical graphs, reporting, and IP health checks.
+A Python-based network monitoring application combining PRTG integration, independent background ping monitoring, Groq AI-powered troubleshooting, historical performance analytics, geographic network visualization, and automated reporting.
 
-Key capabilities:
+**Key features**
+- Independent link-health monitoring that can continue when PRTG is unavailable.
+- AI-assisted network diagnostics and troubleshooting.
+- Latency, packet-loss, and peak-utilization analysis.
+- Excel and PDF reporting.
+- Geographic network visualization and cloud-based license validation.
 
-Network utilization analysis and historical graph generation.
+**Technologies:** Python, CustomTkinter, SQLite, PRTG API, Groq AI, OpenPyXL, ReportLab, Django.
 
-Exportable reports for network performance reviews.
-
-Independent IP reachability checks.
-
-Connectivity diagnostics and troubleshooting assistance.
-
-Integration with a separate online licensing service.
-
-Technologies: Python, Tkinter, PRTG integration, HTTP/API integration.
+🔗 **[View the COREX NOC MONITOR project and screenshots](https://github.com/Hardy-2001/corex-noc-monitor)**
 
 Online licensing portal: https://hermes.corex.ng/
 

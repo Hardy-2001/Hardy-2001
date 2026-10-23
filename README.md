@@ -42,21 +42,38 @@ Tools: Git, GitHub, PyCharm
 
 Emerging learning area: Artificial Intelligence (AI) and Prompt Engineering.
 
-
 💼 Featured Projects
-1. FOCUS NOC MONITOR
 
-A Python desktop application designed to support network operations through monitoring data, utilization analysis, historical graphs, reporting, and IP reachability checks.
+1. corex NOC MONITOR
 
-Technologies: Python, Tkinter, PRTG integration
+A Python desktop application designed to support network operations through monitoring data, utilization analysis, historical graphs, reporting, and IP health checks.
 
-Project details are presented without confidential company information or production network data.
+Key capabilities:
+
+Network utilization analysis and historical graph generation.
+
+Exportable reports for network performance reviews.
+
+Independent IP reachability checks.
+
+Connectivity diagnostics and troubleshooting assistance.
+
+Integration with a separate online licensing service.
+
+Technologies: Python, Tkinter, PRTG integration, HTTP/API integration.
+
+Online licensing portal: https://hermes.corex.ng/
+
+The licensing service supports license requests and validation. Subscription handling is currently managed manually.
+
+Selected screenshots and code examples may be shared in this portfolio to demonstrate the engineering work, while confidential infrastructure details and proprietary implementation components remain private.
 
 2. COREX Server
 
 My web development and hosting venture, focused on helping businesses establish their online presence.
 
-🌐 Visit COREX Server
+🌐 Visit COREX Server  
+https://corex.ng/
 
 3. NELSMART Electrical
 
@@ -85,3 +102,5 @@ COREX Server: https://corex.ng/
 
 
 Always learning. Always building. Always improving.
+
+FOCUS NOC MONITOR is an independent project and is not an official PRTG product. Product names belong to their respective owners.

@@ -78,7 +78,9 @@ Continue growing as a network engineer and software developer.
 
 LinkedIn: https://www.linkedin.com/in/hardy-mbah-18170b289/?isSelfProfile=true
 
-Personal Portfolio: modern5.corex.ng
+Personal Portfolio: https://modern5.corex.ng/
+COREX Server: https://corex.ng/
 
-COREX Server: corex.ng
+
+
 Always learning. Always building. Always improving.
